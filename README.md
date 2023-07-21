@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning designing of the Neural Networks and some advance fundamentals of the Statistical Analysis for Sales forecasting and Prediction
 - 💞️ I’m looking to collaborate on Falcon Framework for Unifying and Simplifying the complex process of Image Data-set Collection, EDA and Data-set Review mechanism under one platform. 
 - 💞️ I'm looking to contribute to ONNX and MXNET
-- 📫 You can reach me on: ckhire@cemtrexlabs.com 
+- 📫 You can reach me on: ckhire91@gmail.com 
 
 <!---
 ckhire/ckhire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
