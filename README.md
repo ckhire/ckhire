@@ -32,14 +32,14 @@ classification, retrieval problems <br>
 
 ### :writing_hand: Articles : 
 
-☄️🥇 AI developement evolution & AI/NN End-to-end Pipeline. <br>
-☄️🥇 Resposnible for design & implementation of ML workflow pipeline using DVC+Git.<br>
-☄️🥇 Multi-Faceted Inference Benchmark Framework <br>
-☄️🥇 Issue with Kalman and Deep Sort Tracking <br>
-☄️🥇 Simple Memory Efficient Adaptive Frame rate Tracker <br>
-☄️🥇 Custom Yolo Kernel for Faster Object Tracking <br>
-☄️🥇 Illusion of same operations on different neural network framework causing chaos <br>
-☄️🥇 Good Design Patterns and coding Practices leading to automatic formation of large AI ecosystem suite <br>
+☄️🥇 ![AI developement evolution & AI/NN End-to-end Pipeline.]() <br>
+☄️🥇 ![Resposnible for design & implementation of ML workflow pipeline using DVC+Git.]()<br>
+☄️🥇 ![Multi-Faceted Inference Benchmark Framework]() <br>
+☄️🥇 ![Issue with Kalman and Deep Sort Tracking]() <br>
+☄️🥇 ![Simple Memory Efficient Adaptive Frame rate Tracker]() <br>
+☄️🥇 ![Custom Yolo Kernel for Faster Object Tracking]() <br>
+☄️🥇 ![Illusion of same operations on different neural network framework causing chaos]() <br>
+☄️🥇 ![Good Design Patterns and coding Practices leading to automatic formation of large AI ecosystem suite]() <br>
 
 ### 🛠️ Skills :
 
