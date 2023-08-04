@@ -1,11 +1,11 @@
 ## 👋 Hi
 - With more than 8 years of professional experience I have expertise in deploying AI Models for Large Scale VMS Products providing real-time analytics and deployed over Server, Cloud and Edge
-- Thanks to the good understanding and Hands-On-Working in SQL Optimzer with proprietary contribution in Tree Parsing, Backpropagation and Tree Optimization Algorithm I precieve Neural Network functioning as different Tree Algorithms
-- I had lot of fun and learning while working intensively on Neural Network model parsing, converting to various frameworks, creating optimized files, implementing optimized network definition
-- Last few years gave me an opportunity to contribute in every stage of AI-pipeline from data-collection to AI model deployment and creating products and libraries around AI models
-- Few hrs of week I spend in experimenting with new NN Architecture, playing with Optimiser Algorithm, trying different training strategies.
-- Currently I am actively working on extracting unique features from SSD without having additonal training
-- I am open to contributing in AI it may be designing neural networks, formulating training strategies or writing new products for AI or with AI
+- Thanks to my previous working on SQL Optimzer with proprietary contribution in Tree Parsing, Backpropagation and Tree Optimization Algorithm I precieve Neural Network functioning as different Tree Algorithms
+- 🤠 I had lot of fun and learning while working intensively on Neural Network model parsing, converting to various frameworks, creating optimized files, implementing optimized network definition
+- 💦 Last few years gave me an opportunity to contribute in every stage of AI-pipeline from data-collection to AI model deployment and creating products and libraries around AI models
+- 🧠 Few hrs of week I spend in experimenting with new NN Architecture, playing with Optimiser Algorithm, trying different training strategies.
+- 🧩 Currently I am actively working on extracting unique features from SSD without having additonal training
+- 👷 I am open to contributing in AI it may be designing neural networks, formulating training strategies or writing new products for AI or with AI
 - 📫 You can reach me on: ckhire91@gmail.com 
 
 <table>
