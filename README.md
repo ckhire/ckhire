@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ckhire
+## 👋 Hi
 - With more than 8 years of professional experience I have expertise in deploying AI Models for Large Scale VMS Products providing real-time analytics and deployed over Server, Cloud and Edge
 - Thanks to the good understanding and Hands-On-Working in SQL Optimzer with proprietary contribution in Tree Parsing, Backpropagation and Tree Optimization Algorithm I precieve Neural Network functioning as different Tree Algorithms
 - I had lot of fun and learning while working intensively on Neural Network model parsing, converting to various frameworks, creating optimized files, implementing optimized network definition
@@ -26,4 +26,25 @@ classification, retrieval problems <br>
   </td>
   </tr>
 </table>
+
+
+### My Articles 
+
+☄️🥇 AI developement evolution & AI/NN End-to-end Pipeline.
+☄️🥇 Resposnible for design & implementation of ML workflow pipeline using DVC+Git.
+☄️🥇 Multi-Faceted Inference Benchmark Framework
+☄️🥇 Issue with Kalman and Deep Sort Tracking
+☄️🥇 Simple Memory Efficient Adaptive Frame rate Tracker
+☄️🥇 Custom Yolo Kernel for Faster Object Tracking
+☄️🥇 Illusion of same operations on different neural network framework causing chaos
+☄️🥇 Good Design Patterns and coding Practices leading to automatic formation of large AI ecosystem suite
+
+### Skills
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Tensorrt](https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+![Weights&Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white)
+
 
