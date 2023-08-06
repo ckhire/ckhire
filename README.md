@@ -6,7 +6,7 @@
 - 🧠 Few hrs of week I spend in experimenting with new NN Architecture, playing with Optimiser Algorithm, trying different training strategies.
 - 🧩 Currently I am actively working on extracting unique features from SSD without having additonal training
 - 👷 I am open to contributing in AI it may be designing neural networks, formulating training strategies or writing new products for AI or with AI
-- 📫 You can reach me on: ckhire91@gmail.com 
+- 📫 You can reach me on: ckhire91@gmail.com  
 
 <table>
 <tr><td>devchait.github.io</td>
