@@ -33,7 +33,7 @@ classification, retrieval problems <br>
 ### :writing_hand: Articles : 
 
 ☄️🥇 [AI developement evolution & AI/NN End-to-end Pipeline.](https://github.com/ckhire/ckhire/docs/reserch-phs.md) <br>
-☄️🥇 [Resposnible for design & implementation of ML workflow pipeline using DVC+Git.]()<br>
+☄️🥇 [Resposnible for design & implementation of ML workflow pipeline using DVC+Git.](https://github.com/ckhire/ckhire/docs/sim_ml_pipe.md) <br>
 ☄️🥇 [Multi-Faceted Inference Benchmark Framework](https://github.com/ckhire/ckhire/docs/vms-prototype.md) <br>
 ☄️🥇 [Issue with Kalman and Deep Sort Tracking](https://github.com/ckhire/ckhire/docs/trck-issues.md) <br>
 ☄️🥇 [Simple Memory Efficient Adaptive Frame rate Tracker](https://github.com/ckhire/ckhire/docs/pr-tracker.md) <br>
