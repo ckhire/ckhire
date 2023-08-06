@@ -9,6 +9,7 @@ In human tracking algorithm, Kalman assumes some initial point in the space. Thi
 1. After 50-60 iteration Kalman instead of predicting it assigns the incomming detection value to itself. Thus after 50-60 iteration Kalman's predicted value is equivalent to the co-ordinates of the detection from the current frame.
 2. When new person is introduce after some time tx then the predicted Kalman value for new person is the co-ordinates far away from that person. This creates issue in next frame. Because association now associates that Kalman's value with some other person. This is visualize as the spike dot on the window.
 3. When previous person is out from the frame and at same instance some new person enters from the same area as that of person leaving then the list management gets complicated. This again causes some extra dots on the screen and tracking id switches. This results in connecting wrong predicted points with some other person's point and extra points appearing on the screen.
+4. It suffers from flickering or fluctuating id assignment for crowd
 
 ## Conclusion ##
 1. We need new tracking approach to reduce the list management.
