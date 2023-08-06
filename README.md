@@ -35,6 +35,7 @@ classification, retrieval problems <br>
 ☄️🥇 [AI developement evolution & AI/NN End-to-end Pipeline.](https://github.com/ckhire/ckhire/docs/reserch-phs.md) <br>
 ☄️🥇 [Resposnible for design & implementation of ML workflow pipeline using DVC+Git.](https://github.com/ckhire/ckhire/docs/sim_ml_pipe.md) <br>
 ☄️🥇 [Multi-Faceted Inference Benchmark Framework](https://github.com/ckhire/ckhire/docs/vms-prototype.md) <br>
+☄️🥇 [Channel Improvement the impact of cuda base pre-processing](https://github.com/ckhire/ckhire/docs/pre_pro_yolo_cu.md) <br>
 ☄️🥇 [Issue with Kalman and Deep Sort Tracking](https://github.com/ckhire/ckhire/docs/trck-issues.md) <br>
 ☄️🥇 [Simple Memory Efficient Adaptive Frame rate Tracker](https://github.com/ckhire/ckhire/docs/pr-tracker.md) <br>
 ☄️🥇 [Custom Yolo Kernel for Faster Object Tracking](https://github.com/ckhire/ckhire/docs/yolo-object-tracking.md) <br>
