@@ -93,7 +93,7 @@ We have implemented Two different algorithm where:
 
 * **Third Tracking Algorithm** 🚀  This algorithm actually increases the run-time complexity as compare to earlier algorithm version. The main idea behind this algorithm is to increase the complexity and to bring the possibility of parallelism/concurrency in solving the association problem.
 
-## First Tracking Algorithm 🚀 
+## First Tracking Algorithm 🚀 [March, 2020]
 
 ### 1. Faster Tracking Association Algorithm :
 
@@ -106,7 +106,7 @@ We have implemented Two different algorithm where:
 
 This tracking algorithm actually follows First Come First In approach and thus the time complexity is very low as compare to others.
 
-### 2. Faster Tracking Association Algorithm Multithreaded :
+### 2. Faster Tracking Association Algorithm Multithreaded [Jun, 2021]:
 In This approach the main objective was to decrease the time taken by cost finding and association of each object. here we have taken it on multi-threading to decrease the time taken by association.
 
  | Category | video duration | No of person | Average time(Micro sec.)/Frame | Thread Creation   Time | Thread join Time | Actual Thread execution Time|Remark |
@@ -124,7 +124,7 @@ As seen from the Actual Thread execution time, our algorithm should take 1/4 of 
 
 
 
-## Second Tracking Algorithm 🚀 
+## Second Tracking Algorithm 🚀 [December, 2021]
 
 This Algorithm is tuple base and does have scope to put it on CUDA for Parallelism. this will resolve the problem...
 
@@ -134,4 +134,4 @@ This Algorithm is tuple base and does have scope to put it on CUDA for Paralleli
  | Medium   |  16 Sec        |      15      |  2648 ms  | - |
  | High     |  13 sec        |      30      |  5987 ms  | - |
 
-
+## Comming soon the comparative tracking analysis of these algorithm with state of the art algorithm ##
