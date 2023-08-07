@@ -67,7 +67,7 @@ classification, retrieval problems <br>
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ckhire&theme=dark&background=000000)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devchait&theme=dark&background=000000)](https://git.io/streak-stats) 
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devchait) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchait)](https://github.com/ckhire/github-readme-stats)<br>
 ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{ckhire}1212%2Fhit-counter)
