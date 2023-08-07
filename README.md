@@ -9,7 +9,7 @@
 - 📫 You can reach me on: ckhire91@gmail.com  
 
 <table>
-<tr><td>devchait.github.io</td>
+<tr><td>[devchait.github.io](https://devchait.github.io/docs/blog/)</td>
 <td>
 <b>Expertise:</b><br><br>
   &bull;  Effective Problem Solving <br>
