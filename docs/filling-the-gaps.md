@@ -61,9 +61,23 @@ One needs to take care particularly when pre-processing takes place in cuda. The
 
 ## Careful Resize
 
-As explained above here is the python file pointing out the below points:
+As explained above [here](https://github.com/ckhire/video-analytics-labs/blob/master/image_dtype_resize_issue.py) is the python file pointing out the below points:
 1. It seems that image read as `uint/uchar` and converted to `float` would only add zeros after decimal. Making no value changes to array
 2. When resize is applied the on `uint` type numpy array the final result is `uint`. obviously
 3. When resize is applied on `float` type numpy array the final result is not having only zeros after decimal. It has different values after decimal.
 
-Conclusion: When this float is given to NN model it will result in different ouput tensor in contrast to the integer input array. This many times carries changes in 1 value before decimal thus causing lot of false results as compare to that done in NN model testing. To avoid such things, its always better to first convert the array to float and then perform resize. If you do otherwise and then convert to float then you can check it will just add zeros post decimal.
+```python
+# Be careful with below
+
+img = cv2.imread("/home/devil/dataset/heart.png")
+
+# integer resize
+res_img = cv2.resize(img, (int(img.shape[0]/2), int(img.shape[1]/2)), interpolation =cv2.INTER_AREA) 
+
+# first convert to float and then resize
+flt_img_arr = img.astype('float')
+res_flt_img = cv2.resize(flt_img_arr, (int(flt_img_arr.shape[0]/2), int(flt_img_arr.shape[1]/2)), interpolation =cv2.INTER_AREA)
+```
+
+
+**Conclusion:** When this float is given to NN model it will result in different ouput tensor in contrast to the integer input array. This many times carries changes in 1 value before decimal thus causing lot of false results as compare to that done in NN model testing. To avoid such things, its always better to first convert the array to float and then perform resize. If you do otherwise and then convert to float then you can check it will just add zeros post decimal.
