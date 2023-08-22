@@ -57,5 +57,13 @@ image.convertTo(floatMat,  CV_32F);
 
 Following above step would produce same input as that of the expected one in pytorch. (There are exception to this too we need to take care of floating point standards by compiler and interpretur just not to have more unknowns).
 One needs to take care particularly when pre-processing takes place in cuda. Then it really causes lot of difference. 
-I will soon give an example of this.
 
+
+## Careful Resize
+
+As explained above here is the python file pointing out the below points:
+1. It seems that image read as `uint/uchar` and converted to `float` would only add zeros after decimal. Making no value changes to array
+2. When resize is applied the on `uint` type numpy array the final result is `uint`. obviously
+3. When resize is applied on `float` type numpy array the final result is not having only zeros after decimal. It has different values after decimal.
+
+Conclusion: When this float is given to NN model it will result in different ouput tensor in contrast to the integer input array. This many times carries changes in 1 value before decimal thus causing lot of false results as compare to that done in NN model testing. To avoid such things, its always better to first convert the array to float and then perform resize. If you do otherwise and then convert to float then you can check it will just add zeros post decimal.
