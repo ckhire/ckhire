@@ -76,4 +76,4 @@ classification, retrieval problems <br>
 
 
 ### Social
-[📖](https://resume.io/r/DtVYeBl6O) <a href= "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://github.com/ckhire/ckhire/assets/60615631/cc714d51-e724-4cb4-b54b-ce0cca0d3fc9" width=20 height =20></img></a>
+[📖](https://resume.io/r/DtVYeBl6O) <a href= "www.linkedin.com/in/chaitanya-khire-7b35419a"><img src="https://github.com/ckhire/ckhire/assets/60615631/cc714d51-e724-4cb4-b54b-ce0cca0d3fc9" width=20 height =20></img></a>
