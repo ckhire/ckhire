@@ -73,3 +73,7 @@ classification, retrieval problems <br>
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devchait&show_icons=true&theme=dark) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchait&theme=dark)](https://github.com/ckhire/github-readme-stats)<br>
 ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{ckhire}1212%2Fhit-counter)
+
+
+### Social
+[📖](https://resume.io/r/DtVYeBl6O) <a href= "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://github.com/ckhire/ckhire/assets/60615631/cc714d51-e724-4cb4-b54b-ce0cca0d3fc9" width=20 height =20></img></a>
