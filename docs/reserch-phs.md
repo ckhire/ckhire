@@ -31,11 +31,11 @@ This page introduces the evolution of the AI/NN or AI/ML work from beginning to 
 **AI/NN Team: Swapnil Udapure**
 
 **December 2019, Tracking Algorithm Evaluation and Implementation, Person Tracking Use case development Phase**: Opencv’s in build Tracking Algorithm, Dlib’s Tracking Algorithm and GoTurn Algorithm were compared with respect to speed and accuracy on CPU. It was observed that all these algorithms were having a lot of lag. Kalman Filter with Tracking as a POC was implemented and integrated with earlier Rules. Kalman Filter was faster than rest Tracking algorithm
-**AI/NN Team: Swapnil Udapure**
+**AI/NN Team: Swapnil Udapure and Chaitanya Khire**
 
 **January 2020, Multi-channel Support Implementation and Evaluation, Enhancement of POC for Multiple Channel**: Enhancement of earlier POC to provide support for the multiple channels. Multi-threading and Multiprocessing with various ways of designs were implemented and evaluated.
 During in-depth OpencvDNN API analysis it was found that Opencv’s Inference Framework is singleton in nature. Thus the root cause of low Multi-channel was with Opencv’s inference framework implementation. This was reported to Opencv by the team.
-**AI/NN Team: Swapnil Udapure, Kishore Parida and Chaitanya khire**
+**AI/NN Team: Chaitanya khire and Swapnil Udapure, Kishore Parida**
 
 **March 2020, Openvino as new Inference Engine and Research Framework Development**: Implementation of various custom object detection models.
 Research Framework design and implementation for having better control and quantification of every module. Research Framework covered the boiler plate and provided a way to re-use the modules so that the framework could be integrated with other UI-Modules using Publisher/Subscriber pattern for communication between the UI Modules and that of the AI/NN Framework.
@@ -45,11 +45,11 @@ Research Framework design and implementation for having better control and quant
 **AI/NN Team: Chaitanya Khire and Girish Joshi**
 
 **May 2020, Evaluation of GPU based inference engines and development frameworks**: GPU based frameworks evaluated to extend the number of channel support and to optimize per channel infer latency , for this PyTorch framework has been evaluated for research based POC implementations, along with TensorRT framework for AI model deployment support, several object detection algorithms has been tested on pytorch and tensorrt framework to achieve optimal results which were Yolo, SSD, and few custom NN architectures. From July basic dataset collection for object detection and traffic classification has begun along with data analysis , traffic light classification initial architecture has been proposed with test evaluation results. 
-**AI/NN Team: Swapnil Udapure and Kishor Parida**
+**AI/NN Team: Swapnil Udapure and Chaitanya Khire and Kishore Parida**
 
 **September 2020, Formulation of research to production pipeline and Core API Interface for Post Alpha development**: Standardized the research based implementation in order to get deployed using TensorRT framework, proposed and finalized design and architecture for end to end research to production pipeline along with core component design architecture.
 For product perspective AI/NN deployment framework was finalized, designed and implemented as a core-library to be used by other modules like Core-Manager. It was finalized that the AI/NN deployment framework (known as Core) will be released incrementally in 45 days cycle
-**AI/NN Team: Swapnil Udapure, Kishor Parida and Chaitanya Khire**
+**AI/NN Team: Chaitanya Khire**
 
 ***
 
