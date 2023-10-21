@@ -43,6 +43,7 @@ classification, retrieval problems <br>
 ☄️🥇 [Custom Yolo Kernel for Faster Object Tracking](/docs/yolo-object-tracking.md) <br>
 ☄️🥇 [Illusion of same operations on different neural network framework causing chaos](/docs/filling-the-gaps.md) <br>
 ☄️🥇 [Good Design Patterns and coding Practices leading to automatic formation of large AI ecosystem suite](/docs/ai-ecosystem.md) <br>
+☄️🥇 [Simple Yolov5 Pre-processing CPU vs GPU](https://github.com/ckhire/video-analytics-labs/blob/master/Pre_Processing_CPU_vs_GPU_yolov5.md) <br>
 
 ### 🛠️ Skills :
 
