@@ -33,6 +33,7 @@ classification, retrieval problems <br>
 ---
 
 ### :writing_hand: Articles : 
+✔️🖋️ [Simple CI/CD Setup with Gitea](/docs/ci_cd_gitea.md) <br>
 ✔️🖋️ [Streamlined On-Premise Code Collaboration: Introducing Gitea - Your Effortless Open-Source GitHub Alternative](/docs/gitea.md) <br>
 ☄️🥇 [AI developement evolution & AI/NN End-to-end Pipeline.](/docs/reserch-phs.md) <br>
 ☄️🥇 [Resposnible for design & implementation of ML workflow pipeline using DVC+Git.](/docs/sim_ml_pipe.md) <br>
