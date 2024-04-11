@@ -21,4 +21,42 @@ Yes Gitea provides simpler and completely self managed CI/CD. Just follow below 
   There are **3** levels of execution for 🏃.  
   1. Instance Level  :--> Don't get 😕. As we know our server is an instance. We may have multiple instances or you may 🤔 like single server instance may have many organization and ..yes 🏁 runners shared across multiple organizations.  
   2. Organization Level :--> Runners setup at this level are inherited by all repository within organization and any repo can use it.  
-  3. Repository Level  :--> These will get triggerd for events of specific repository. One can say each repository has its own or shares same runner.  
+  3. Repository Level  :--> These will get triggerd for events of specific repository. One can say each repository has its own or shares same runner.
+
+🤔 How to get token for each of this levels ❔
+
+
+❔ ⏭️ How to feed this to Act Runner instance knows as Registration of Act Runner
+
+I] 🖨️ Interactive way
+> ./act_runner --config config.yaml register  
+> The Gitea instance URL, like https://gitea.com/ or http://192.168.8.8:3000/
+> _Paste the token copied above_
+> _Runner Name_ It chooses host machine name if filled blank
+> **_Runner lable name_**  #This is paired like `os_name-version_name` like ubuntu-20.04. This is very important as it will pick this lable from the ci/cd script provided in repo and as per the lable it will match against the registered one using this lable and will interact with runner as per given script. Below are screenshots for ⤵️
+
+
+
+✔️ ❎ We are not done yet. 🤔 🧐 Below is the simple `build.yaml` required in `.gitea/workflows` folder in the `root` 📁 of your repository.  
+> ```yaml
+>name: Trial
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    defaults:
+      run:
+        working-directory: /home/ckhire/repos/tracking
+    steps:
+      - name: listing
+        run: ls -lrt
+
+      - name: Checkout repo
+        run: git pull origin main
+
+
+
